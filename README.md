@@ -1,4 +1,4 @@
-# E-commerce Frontend Design
+# Luxe-E-commerce
 
 A modern, responsive e-commerce frontend application built with **Next.js 16**, **React 19**, and **Tailwind CSS**. This project showcases a clean and premium design for an online store, featuring essential pages and components for a seamless user experience.
 
